@@ -440,3 +440,7 @@ dialog.modal[open] {
   letter-spacing: 0.05em;
   line-height: 1.9;
 }
+
+a {
+  color: #ffffff;
+}
